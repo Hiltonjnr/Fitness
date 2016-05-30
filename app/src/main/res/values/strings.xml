@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FIT UP</string>
+    <string name="app_bar">AB WHEEL</string>
+    <string name="app_header">5 MACHINES TO HELP TONE YOUR ABS</string>
+
+    <string name="sit_up_bench">Ab benches are one of the oldest types of fitness equipment that can be always found in gyms.
+        The latest ones are adjustable which means we can increase or decrease the angle of the board.
+        This way we can change the resistance.\n\n
+        Besides sit ups we can do a wide variety ab exercises, for instance, crunches, leg raising and twists etc.
+        It is a truly valuable tool to train the entire core. On the other hand the best models can be used for any decline workouts.\n\n
+        It is important to buy a sit up machine which is long and wide enough for you to avoid strains and injuries.\n\n
+        You should get one which can be adjusted in many levels in order to increase or decrease the resistance for your needs.
+    </string>
+    <string name="ab_wheel">This is another very powerful tool to train abdominal muscles plus shoulders, arms and back.
+        An ab wheel allows us to perform an efficient core workout.\n\n We can stimulate the muscles when we roll out and in.
+        Therefore, the abdominal muscles are continuously used.
+        Using it for beginners is a bit hard at first, but with some practise you can get used to it.
+        I think, it is the best equipment for lower and upper abs training.\n\n
+        You can read more about the benefits of using ab roller here.
+        Furthermore, they are rather affordable.
+
+</string>
+    <string name="pull_up_bar">Pull up bars are great to do several body weight exercises and it is especially beneficial for working the abs.
+        There are various workouts we can do to train the abdominis and the obliques.
+        Hanging leg and knee raises have helped me a lot to get a flat stomach.\n\n
+        There are two types of equipment that you can get to perform these efficient moves at home, a Power tower or a simple doorway or mounted pull up bar.
+        I think, towers are better since you can do several other types of bodyweight exercises.
+</string>
+    <string name="stability_ball">An exercise ball is not a well-known exercise equipment for abs, however,
+        with the help of it we can do various efficient exercises.\n\n
+        Since, we have to control do motion more, it helps to train abdominal muscles better.
+        With the help  of it we can do common exercises such as sit ups and crunches more efficiently and safely.
+    </string>
+    <string name="roman_chair">If you want to get slim waist it is vital to train your lower back.
+        Strong lower back is also crucial for various other exercises and helps to avoid pain as well.\n\n
+        Besides the hyper extension move, you can do a few advanced core exercises with the help of a Roman chair.\n\n
+        A big mistake of beginners is that they only focus on their abdominal muscles and neglect hair lower back.
+        This leads to lower back pain, bad posture and increase the possibility of various lower body injuries.
+
+
+</string>
+</resources>
+

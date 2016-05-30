@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fitness">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/abs" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="38dp"
+        android:text="@string/app_header"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <Button
+            android:id="@+id/btnRomanChair"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:onClick="romanChair"
+            android:text="roman chair" />
+
+        <Button
+            android:id="@+id/btnStabilityBall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="stabilityBall"
+            android:text="stability ball" />
+
+        <Button
+            android:id="@+id/btnPullUpBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="pullUpBar"
+            android:text="Pull up bar" />
+
+        <Button
+            android:id="@+id/btnAbWheel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="abWheel"
+            android:text="Ab Wheel" />
+
+        <Button
+            android:id="@+id/btnSitUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="sitUpBench"
+            android:text="Sit Up Bench" />
+
+    </LinearLayout>
+
+</RelativeLayout>
